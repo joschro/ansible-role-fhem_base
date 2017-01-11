@@ -1,0 +1,1 @@
+# ansible-role-fhem_base
